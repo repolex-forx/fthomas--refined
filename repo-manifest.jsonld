@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/fthomas/refined/commit/2d9cd42102e2936a725e7bdcea254883d533dab8",
       "git:hexsha": "2d9cd42102e2936a725e7bdcea254883d533dab8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/fthomas/refined/commit/6c949614821ca81fd04b1cdcc04850e0050db77b",
